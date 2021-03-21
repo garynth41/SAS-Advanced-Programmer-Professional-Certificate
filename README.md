@@ -15,14 +15,9 @@ When you complete this professional certificate program, you will have experienc
 Two projects are included as honors lessons in this professional certificate program. Each project will demonstrate your comprehensive knowledge of the learned SAS programming skills. In the first project, you use SQL to analyze to analyze passenger claims at United States airports. In the second project, you use the SAS macro language to automate reporting and analysis of analysis of supplier sales.
 
 # Instructors:
+* Peter Styliadis, Senior Associate Technical Training Consultant, SAS Education
 
-* Peter Styliadis
-* Senior Associate Technical Training Consultant
-* SAS Education
-
-* Stacey Syphus
-* Senior Manager
-* Education
+* Stacey Syphus, Senior Manager, Education
 
 * Michele Ensor
 
