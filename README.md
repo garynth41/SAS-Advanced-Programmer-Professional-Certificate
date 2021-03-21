@@ -1,6 +1,13 @@
 # SAS-Advanced-Programmer-Professional-Certificate
 Grow Your Career with a SAS® Credential. Master the skills required for the SAS® Advanced Programming Professional certification.
 
+#  3 Courses in this Professional Certificate
+  1. Structured Query Language (SQL) using SAS
+  2. SAS Macro Language
+  3. Advanced SAS Programming Techniques
+
+
+
 
 # WHAT YOU WILL LEARN
 * Process data using Structured Query Language in the SAS environment    
